@@ -17,6 +17,7 @@ Welcome to our organization! Briefly describe what your organization does, its m
 List and briefly describe the main projects or repositories that belong to your organization. Include links to each project's repository.
 
 1. [PROGRESS API](https://github.com/eternity-dev/progress-api) - API for PROGRESS based application
+2. [JFest 7](https://github.com/eternity-dev/jfest) - Fullstack app for JFest 7 by JCOS
 
 ### Contact
 
